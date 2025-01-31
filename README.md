@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<img src="https://github.com/zerototwo/zerototwo/blob/master/pika_sleep.gif" alt="pika" width="450px" />
 **zerototwo/zerototwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
