@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <img src="https://github.com/zerototwo/zerototwo/blob/master/pika_sleep.gif" alt="pika" width="450px" />
+
+[![wakatime](https://wakatime.com/badge/user/0c7f638f-df91-41e4-93bc-9c11a81180be.svg)](https://wakatime.com/@0c7f638f-df91-41e4-93bc-9c11a81180be)
+
+
 **zerototwo/zerototwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
