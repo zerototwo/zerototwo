@@ -4,6 +4,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/0c7f638f-df91-41e4-93bc-9c11a81180be.svg)](https://wakatime.com/@0c7f638f-df91-41e4-93bc-9c11a81180be)
 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 **zerototwo/zerototwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
