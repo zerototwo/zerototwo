@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### 🐍 GitHub Contribution Snake
-
-![GitHub Snake Light](https://github.com/zerototwo/zerototwo/blob/output/github-contribution-grid-snake.svg)
-
 ![GitHub Snake Dark](https://github.com/zerototwo/zerototwo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 [![zerototwo's GitHub | Stats](https://stats.quine.sh/zerototwo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zerototwo)
