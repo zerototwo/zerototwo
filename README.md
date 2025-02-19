@@ -12,7 +12,8 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 **zerototwo/zerototwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 🚀 My Tools
+[![My Skills](https://skillicons.dev/icons?i=apollo,apple,aws,c,css,bots,docker,eclipse,elasticsearch,github,githubactions,gitlab,gmail,go,gradle,grafana,html,idea,instagram,java,js,jenkins,kafka,kubernetes,linkedin,linux,lua,md,maven,mongodb,mysql,postman,pycharm,py,redis,spring,sqlite,stackoverflow,sublime,twitter,ubuntu,vscode&theme=light)](https://github.com/zerototwo)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
